@@ -1,6 +1,3 @@
-# Ruby on Rails Tutorial:  sample application
+# Ruby on Rails Tutorial:  Puppies in the Pound
 
-This is the sample application for the 
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+This is the readme file for the group project
